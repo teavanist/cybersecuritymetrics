@@ -3,7 +3,9 @@
 
 ## About the project 
 
-A compilation of metrics for cybersecurity professionals from publicly available sources. 
+A compilation of metrics for cybersecurity professionals from publicly available sources.
+
+Latest count of metrics: 157
 
 A Google Sheet version is available at:
 
