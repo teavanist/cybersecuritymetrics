@@ -5,7 +5,7 @@
 
 A compilation of metrics for cybersecurity professionals from publicly available sources.
 
-Latest count of metrics: 157
+Latest count of metrics: 168
 
 A Google Sheet version is available at:
 
